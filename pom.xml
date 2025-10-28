@@ -40,7 +40,7 @@
 	<dependencies>
 
 		<dependency>
-			<groupId>freemarker</groupId>
+			<groupId>org.freemarker</groupId>
 			<artifactId>freemarker</artifactId>
 			<version>2.3.31</version>
 			<!--scope>system</scope>
@@ -94,4 +94,5 @@
 	</reporting>
 
 </project>
+
 
